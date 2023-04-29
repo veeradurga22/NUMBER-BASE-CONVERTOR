@@ -18,11 +18,11 @@ Used Modules:
   
 *FLow of code:*
 
-   First we have to create the interface using Tkinter in that keyboard is placed to enter the values..
-   In that , the required keys are enabled for the number system for example if we select binary then 0 and 1 wiil be enable and rest of the buttons are disabled.
-   In backend convert the numbers using bin(),dec(),hex(),oct() functions which are taken inputs from the Tkinter GUI.
-   Convert button will convert the numbers.
-   Reset button will reset the data.
-   History button will show the history of recent converted values.
-   Exit button is for exit.
+   * First we have to create the interface using Tkinter in that keyboard is placed to enter the values..
+   * In that , the required keys are enabled for the number system for example if we select binary then 0 and 1 wiil be enable and rest of the buttons are disabled.
+   * In backend convert the numbers using bin(),dec(),hex(),oct() functions which are taken inputs from the Tkinter GUI.
+   * Convert button will convert the numbers.
+   * Reset button will reset the data.
+   * History button will show the history of recent converted values.
+   * Exit button is for exit.
 
