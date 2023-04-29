@@ -1,0 +1,4 @@
+
+Decimal - Binary | 281   |  100011001 |
+Binary - Decimal |  10001  |  17 |
+Hexadecimal - Octadecimal |  2387  |  21607 |
